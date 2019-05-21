@@ -23,6 +23,7 @@ from six.moves.urllib.parse import urljoin, urlparse
 from six.moves.urllib.request import urlopen
 
 import sqlalchemy as sa
+
 import routes
 import paste.script
 from paste.registry import Registry
